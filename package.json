@@ -1,5 +1,5 @@
 {
-  "name": "middleware",
+  "name": "gzmiddleware",
   "version": "0.1.0",
   "description": "Minimal express compatible framework where middleware functions are combined into a REST server",
   "main": "middleware.js",
